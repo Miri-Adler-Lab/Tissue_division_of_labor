@@ -1,0 +1,367 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.10",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "setup",
+      "code_hash": "c86bbeb1d13e48483ca50cdf3bcd7d8c",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "Missing Figure 4 input(s): ['C:\\\\Users\\\\walfi\\\\Desktop\\\\cross_tissue_support_programs_copy\\\\data\\\\04_Crosstalk\\\\processed\\\\go_biological_process_2025.json']",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\walfi\\AppData\\Local\\Temp\\marimo_35300\\__marimo__cell_setup_.py&quot;</span>, line <span class=\"m\">38</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"k\">raise</span> <span class=\"ne\">FileNotFoundError</span><span class=\"p\">(</span><span class=\"sa\">f</span><span class=\"s2\">&quot;Missing Figure 4 input(s): </span><span class=\"si\">{</span><span class=\"n\">missing</span><span class=\"si\">}</span><span class=\"s2\">&quot;</span><span class=\"p\">)</span>\n<span class=\"gr\">FileNotFoundError</span>: <span class=\"n\">Missing Figure 4 input(s): [&#39;C:\\\\Users\\\\walfi\\\\Desktop\\\\cross_tissue_support_programs_copy\\\\data\\\\04_Crosstalk\\\\processed\\\\go_biological_process_2025.json&#39;]</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "Hbol",
+      "code_hash": "e75d7675eafdd332eda6b6856561011c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"pathway-analisis\">Pathway Analisis</h1>\n<h2 id=\"general-idea\">General idea</h2>\n<span class=\"paragraph\">mapping ligand receptor interactions related to different processes and pathways trying to see if they are specific to particular archetypes or generalists.\nspecific archetypes will appear as distinctive arrows between a small amount of archetypes, but generalists can appear in two ways, either as a lot of small arrows between a wide range of archetypes without a hierarchy or order, or not appear at all making it more generalist thus no ligand or receptor is expressed significantly different between archetypes, and therefore is not in the analysis.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "25283f122ee5b9003ccf3b3d6841ee92",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"importing-data\">Importing data</h1>\n<h2 id=\"interactions\">interactions</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "9e521d2325784904d45e060bf1f58bc1",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "5f7e8ad7487918dffb63c244f6929dac",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "e8a4f25170bec4fc1429b42658fe7d6c",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "ef5c4dd2f31ca2c64e5e318f9200a1d7",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "477063aa3a3d18cc52dd764ea77e0c8c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"interactive-mapper\">Interactive mapper</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "8e9d702dfb0a25a9aaa6aa85bb7d3314",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "38af6643f831b19563bcd9e6722b1006",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "042914b078e546cbddecb1f7c3a0e45f",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "802601aa3c90310688663a82383e8c4c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"specific-processes\">specific processes</h1></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "21f0544f835aaf6cc6728d94277d68c3",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "54f0821507abf2866febe66e3ff351fc",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"angiogenesis\">angiogenesis</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "972141f9415492008be32f0d86cc164a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "59a00700d5ee3a0415471959be6bbc95",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"fig-6-d\">fig 6 D</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "48a33374a6d01ebb045561c5ff5c2e7c",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "648ffe7b2100a85af56441d1abdc7264",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"ecm\">ECM</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "b3f70b1563618e805d462f96012daeee",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "a97518129ab4a45927b1f7f4edac3523",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Vxnm",
+      "code_hash": "75025c8a5576ec8582b7baaadf414c07",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"inflamatory\">inflamatory</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "DnEU",
+      "code_hash": "2701edf753b245af28599928f8fc2e41",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ulZA",
+      "code_hash": "077b145f4c18051e35c7f1ae7c4f8847",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ecfG",
+      "code_hash": "505d92c9fbfe7e9acd29a2c6136ff346",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"growth-factor\">Growth factor</h2></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Pvdt",
+      "code_hash": "c95f9c8b56f50c11d474b6b3b8cb5ddc",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZBYS",
+      "code_hash": "0ed2329ffa8d5d0c8f0368a10226edc5",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aLJB",
+      "code_hash": "770228eadbc6a616ec46bfdfe6897551",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "An ancestor raised an exception (FileNotFoundError): ",
+          "traceback": null
+        }
+      ],
+      "console": []
+    }
+  ]
+}
