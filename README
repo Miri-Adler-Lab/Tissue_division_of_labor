@@ -12,11 +12,11 @@ Each numbered directory is a step of the analysis pipeline:
 
 ```
 01_Preprocessing/          # Data preprocessing and sampling
-02_Archetype_Identification/  # ParTI archetype identification and polytope plots
-03_Tissue_Composition/     # Tissue composition and Gini analyses
-04_Intercellular_Crosstalk/   # Ligand-receptor / archetype crosstalk (Figure 4)
+02_Archetype_Identification/  # ParTI archetype identification 
+03_Tissue_Composition/     # Tissue composition 
+04_Intercellular_Crosstalk/   # Ligand-receptor
 05_spatial_ligand_receptor/   # Spatial ligand-receptor analysis
-06_Archetype_Robustness/   # Archetype robustness (PCA, Jaccard heatmaps)
+06_Archetype_Robustness/   # Archetype robustness
 07_Cross_Species_Analysis/    # Human-mouse cross-species comparison
 ```
 
