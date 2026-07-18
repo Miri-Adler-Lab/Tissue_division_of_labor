@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+.venv
+.env
+
+# Jupyter Notebook (notebooks ARE tracked; only ignore checkpoints/config)
+.ipynb_checkpoints
+.jupyter/
+
+# MATLAB
+*.asv
+*.slx.autosave
+*.mlapp.autosave
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rprofile
+*.Rout
+*.Rproj
+.Rproj.user/
+
+# Data files
+*.h5
+*.h5ad
+*.hdf5
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.mat
+*.pickle
+*.pkl
+*.feather
+*.parquet
+*.rds
+*.zarr
+data/
+results/
+output/
+scratch/
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
